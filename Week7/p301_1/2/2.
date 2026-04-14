@@ -1,0 +1,10 @@
+MyTime
+-------------------
+- hour : int
+- min  : int
+- sec  : int
+-------------------
++ convert(double)
++ print()
++ add(MyTime) : MyTime
++ reset()
