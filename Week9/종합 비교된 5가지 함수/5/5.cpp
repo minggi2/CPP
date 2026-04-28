@@ -5,7 +5,7 @@ class Complex {
 public:
     int real, imag;
 
-    Complex operator+(Complex&); 
+    Complex operator+(Complex&);
 };
 
 Complex Complex::operator+(Complex &b) {
